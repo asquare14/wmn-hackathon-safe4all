@@ -1,0 +1,4 @@
+Django==1.11.5
+Pillow==6.0.0
+psycopg2==2.7.4
+pytz==2019.1
